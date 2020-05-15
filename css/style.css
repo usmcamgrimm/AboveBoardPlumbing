@@ -1,0 +1,19 @@
+/* Colors */
+/* 
+Blue- #3c3b6e
+White- #ffffff
+Red- #b22234
+Black- #030303
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fefefe;
+    font-size: 16px;
+    font-family: Roboto;
+}
